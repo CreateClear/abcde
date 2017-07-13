@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "swiper": "^3.4.2",
+    "vue-router": "^2.7.0"
+  }
+}
